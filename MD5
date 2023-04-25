@@ -1,7 +1,7 @@
-0bac4b0072731204c1d7d25b54f71b16 *DESCRIPTION
+50297321bac43a1081ee96706ad14429 *DESCRIPTION
 99bc125b0a438dba3cfa01fb9a9e8fd6 *LICENSE
 b61e83bbd759e889c8887424337e1823 *NAMESPACE
-eada0b70de71c203bf751e6521ff0d8c *NEWS
+a2020b2b97dd689475952905c8d4efac *NEWS
 b513ed2bf584d2785c2587a213650138 *R/stem.R
 846e2cc06cc63146a7db4324e70d37f7 *inst/words.R
 6450f60353bf64dfb3fb27f7b47a287d *inst/words/arabic.RData
@@ -32,14 +32,14 @@ c17e17cedd554ab4f32f98927c86f18d *inst/words/tamil.RData
 123e76d7593bddd3bcf1365a5b6f16ef *inst/words/turkish.RData
 5834354a58bc2954926203a024097284 *man/getStemLanguages.Rd
 6470f197eb9ade66ef751a437b3aa55c *man/wordStem.Rd
-5164d6c8dddffcef63ffde83bd0787ea *src/SnowballC_init.c
+68f85b6323a727f3273007f08b795832 *src/SnowballC_init.c
 afecf06b1a49f45c0ae5e7966e1f55e8 *src/api.c
 3463c7786b95691c5ea34988c7e6dcd0 *src/api.h
 5cbdbe434d6f76bbf13c3a6f34d0fffc *src/header.h
 e15a358acc0b1263cbf0518a78954e62 *src/libstemmer.h
 dfd1562c0fec4117b918348d894a1b35 *src/libstemmer_utf8.c
 025a309bfcb95d86b0ff68dc1c4e4539 *src/modules_utf8.h
-8507d877fc894bfe04a001977ee0ec29 *src/stem.c
+c1d4622d4793bac4e41f89747b10317b *src/stem.c
 956228113294ed2d1fbe9dec0c4a42a0 *src/stem_UTF_8_arabic.c
 460b9f5afb49daa57e0f5cef4d84eda5 *src/stem_UTF_8_arabic.h
 d1bf2b3177cb826adaa252591222d1ba *src/stem_UTF_8_basque.c
